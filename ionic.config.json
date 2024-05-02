@@ -1,0 +1,8 @@
+{
+  "name": "Sizzl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1acc46f5"
+}
